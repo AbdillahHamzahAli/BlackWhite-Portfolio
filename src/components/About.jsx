@@ -12,12 +12,12 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right font-bold text-4xl">
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi, animi?</p>
+            <p>I'am Hamzah, Nice to meet you</p>
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, tempore mollitia alias suscipit iusto quae id? Mollitia, repellendus animi velit officiis sit quas ea deserunt saepe eos, at vero. Dignissimos quas exercitationem
-              ipsam corporis, rem officia obcaecati porro eligendi blanditiis amet ea autem corrupti soluta incidunt doloremque repellat, nam laboriosam?
+              "I'm a fullstack web developer with experience in designing and developing innovative web solutions. With a strong focus on detail, security, and performance, I'm committed to delivering exceptional user experiences. I also
+              possess excellent collaboration skills and thrive on tackling new challenges to create impactful web solutions."
             </p>
           </div>
         </div>
