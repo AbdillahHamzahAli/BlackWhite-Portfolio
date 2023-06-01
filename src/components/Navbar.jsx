@@ -84,17 +84,17 @@ const Navbar = () => {
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
           <li className="w-[160px] h-[60px] flex justify-center items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-black ">
-            <a href="/" className="flex justify-between items-center w-full text-gray-300">
+            <a href="https://www.instagram.com/hazny.id" className="flex justify-between items-center w-full text-gray-300">
               Instagram <FaInstagram size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-center items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-black ">
-            <a href="/" className="flex justify-between items-center w-full text-gray-300">
+            <a href="https://github.com/AbdillahHamzahAli" className="flex justify-between items-center w-full text-gray-300">
               Github <FaGithub size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-center items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-black ">
-            <a href="/" className="flex justify-between items-center w-full text-gray-300">
+            <a href="mailto:hamzajmbg14@gmail.com" className="flex justify-between items-center w-full text-gray-300">
               Email <HiOutlineMail size={30} />
             </a>
           </li>
