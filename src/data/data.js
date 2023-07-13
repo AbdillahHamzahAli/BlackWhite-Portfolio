@@ -21,6 +21,6 @@ export const data = [
     name: "Laravel CMS (Development)",
     image: LaravelBlog,
     github: "https://github.com/AbdillahHamzahAli/Laravel-blogCms.git",
-    live: "",
+    live: "https://tenkoarena.000webhostapp.com/",
   },
 ];
