@@ -1,26 +1,23 @@
-import PortfolioTailwind from "../assets/projects/portfolio-tailwindcss.png";
-import Portfolio from "../assets/projects/portfolio.png";
-import LaravelBlog from "../assets/projects/laravelblog.png";
+import shoesStore from "../assets/projects/shoes-store.png";
+import indonesiaFoodAPI from "../assets/projects/Indonesia-food-api.png";
+import schoolTransactionManagement from "../assets/projects/school-transaction-management.png";
 export const data = [
   {
     id: 1,
-    name: "Portfolio Tailwind",
-    image: PortfolioTailwind,
-    github: "https://github.com/AbdillahHamzahAli/portfolio-tailwind.git",
-    live: "https://abdillahhamzahali.github.io/portfolio-tailwind/",
+    name: "Shoes Store",
+    image: shoesStore,
+    live: "https://demo-shoesstore.42web.io",
   },
   {
     id: 2,
-    name: "Porfolio HTML,CSS,JS",
-    image: Portfolio,
-    github: "https://github.com/AbdillahHamzahAli/abdillahhamzahali.github.io.git",
-    live: "https://abdillahhamzahali.github.io/",
+    name: "Indonesia Food API",
+    image: indonesiaFoodAPI,
+    live: "https://indonesia-food-api.vercel.app",
   },
   {
     id: 3,
-    name: "Laravel CMS (Development)",
-    image: LaravelBlog,
-    github: "https://github.com/AbdillahHamzahAli/Laravel-blogCms.git",
-    live: "https://tenkoarena.000webhostapp.com/",
+    name: "Laravel School Transaction Management",
+    image: schoolTransactionManagement,
+    live: "http://demo-manajemen-sekolah.42web.io/",
   },
 ];
